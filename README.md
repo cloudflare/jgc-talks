@@ -1,5 +1,6 @@
 jgc-talks
 =========
 
-Code samples and data used in talk preparation by John Graham-Cumming
+PDF files of every technical talk given by John Graham-Cumming, plus
+clde samples and data used in talk preparation.
 

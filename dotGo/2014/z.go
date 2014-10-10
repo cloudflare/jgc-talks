@@ -42,12 +42,6 @@ func run(f factory) {
 
 	out := make(chan task)
 
-	go func() {
-		for t := range out {
-			t.print()
-		}
-	}()
-
 	for i := 0; i < 1000; i++ {
 		wg.Add(1)
 		go func() {
@@ -59,8 +53,14 @@ func run(f factory) {
 		}()
 	}
 
-	wg.Wait()
-	close(out)
+	go func() {
+		wg.Wait()
+		close(out)
+	}()
+
+	for t := range out {
+		t.print()
+	}
 }
 
 func main() {

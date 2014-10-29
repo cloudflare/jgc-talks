@@ -13,6 +13,8 @@ Group](http://www.meetup.com/Go-London-User-Group/).
 
 [GoSF](GoSF/): talks given at [GoSF](http://www.meetup.com/golangsf/)
 
+[nginx.conf](nginx.conf/): talks given at [nginx.conf](http://nginx.com/nginxconf/)
+
 [OSCON](OSCON/): talks given at [OSCON](http://www.oscon.com/oscon2013/public/content/home)
 
 [Virus_Bulletin:](Virus_Bulletin/) talks given at [Virus Bulletin](http://www.meetup.com/golangsf/)

@@ -21,7 +21,7 @@ Group](http://www.meetup.com/Go-London-User-Group/).
 
 [OSCON](OSCON/): talks given at [OSCON](http://www.oscon.com/oscon2013/public/content/home)
 
-[Virus_Bulletin:](Virus_Bulletin/) talks given at [Virus Bulletin](http://www.meetup.com/golangsf/)
+[Virus_Bulletin:](Virus_Bulletin/) talks given at [Virus Bulletin](https://www.virusbtn.com/conference/index)
 
 [WordPress_London](WordPress_London/): talks given at the [WordPress London Meet
 up](http://www.meetup.com/London-WordPress/)
